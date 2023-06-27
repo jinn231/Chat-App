@@ -1,0 +1,30 @@
+.my_message_container{
+    margin-top: 1em;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.my_message{
+    background: #e5e5e5;
+    padding: .5em 1em;
+    margin:0 1em;
+    border-top-left-radius: .5em;
+    border-bottom-left-radius: .5em;
+    border-top-right-radius: 1em;
+}
+
+.message_container{
+    margin-top: 1em;
+    display: flex;
+    justify-content: flex-start;    
+}
+
+.message{
+    background: #2d9fd4; 
+    padding: .5em 1em;
+    margin:0 1em;   
+    color: white;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+}

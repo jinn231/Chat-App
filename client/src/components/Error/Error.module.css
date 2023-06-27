@@ -1,0 +1,17 @@
+.error{
+    width: auto;
+    height: 3.2rem;
+    background: rgb(206, 207, 206);
+    display: flex;
+    padding: 2em;
+    border-radius: .5rem;
+    align-items: center;
+    position: absolute;
+    margin: 1em;
+    top: 0;
+    gap: 3;
+    right: 0;
+    opacity: 1;
+    animation: alert 1s ease-in-out;
+    transition: all 1s ease;
+}

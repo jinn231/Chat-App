@@ -1,0 +1,8 @@
+# Node.js
+node_modules
+
+# Build directory
+.next
+
+# Other files/directories to ignore
+# Add any additional files or directories you want to ignore here

@@ -1,0 +1,9 @@
+
+  .bgBlur::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: inherit;
+    filter: blur(8px); /* Adjust the blur radius as needed */
+    z-index: -1;
+  }
